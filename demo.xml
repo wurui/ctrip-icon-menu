@@ -14,95 +14,38 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <address>
-        <country>
-            tough mobilephone
-        </country>
-        <province>
-            strong wallet
-        </province>
-        <city>
-            wallet
-        </city>
-        <district>
-            watch
-        </district>
-    </address>
-    <icon-menu>
-        <i>
+        <address>
+            <country>中国</country>
+            <province>浙江</province>
+            <city>杭州</city>
+            <district></district>
+        </address>
+        <icon-menu>
             <i>
-                <icon>
-                    //a.oxm1.cc/img/fox.jpg
-                </icon>
-                <title>
-                    camera
-                </title>
-                <href>
-                    //a.oxm1.cc/img/fox.jpg
-                </href>
-                <tip>
-                    car
-                </tip>
+                <i>
+                    <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9h92irgTj9v3z2ycRew0fA4l9-1000.png</icon>
+                    <title>景点·玩乐</title>
+                    <href></href>
+                    <tip></tip>
+                </i>
+                <i>
+                    <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9h92ls9Tj9v3yzxjR57a6A4so-1000.png</icon>
+                    <title>周边游</title>
+                </i>
+                <i>
+                    <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9h92kviTj9v3z0uaRdtcjA53t-1000.png</icon>
+                    <title>美食林</title>
+                </i>
+                <i>
+                    <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9h92jy2Tj9v3z1rqRw2i2A51t-1000.png</icon>
+                    <title>打车</title>
+                </i>
+                <i>
+                    <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9h92ji5Tj9v3z27nRl589A4l8-1000.png</icon>
+                    <title>当地攻略</title>
+                </i>
+
             </i>
-            <i>
-                <icon>
-                    //a.oxm1.cc/img/fox.jpg
-                </icon>
-                <title>
-                    screen
-                </title>
-                <href>
-                    //a.oxm1.cc/img/fox.jpg
-                </href>
-                <tip>
-                    strong screen
-                </tip>
-            </i>
-        </i>
-        <i>
-            <i>
-                <icon>
-                    //a.oxm1.cc/img/fox.jpg
-                </icon>
-                <title>
-                    mobilephone
-                </title>
-                <href>
-                    //a.oxm1.cc/img/fox.jpg
-                </href>
-                <tip>
-                    screen
-                </tip>
-            </i>
-            <i>
-                <icon>
-                    //a.oxm1.cc/img/fox.jpg
-                </icon>
-                <title>
-                    notebook
-                </title>
-                <href>
-                    //a.oxm1.cc/img/fox.jpg
-                </href>
-                <tip>
-                    screen
-                </tip>
-            </i>
-            <i>
-                <icon>
-                    //a.oxm1.cc/img/fox.jpg
-                </icon>
-                <title>
-                    tough notebook
-                </title>
-                <href>
-                    //a.oxm1.cc/img/fox.jpg
-                </href>
-                <tip>
-                    car
-                </tip>
-            </i>
-        </i>
-    </icon-menu>
+        </icon-menu>
     </data>
 </root>
