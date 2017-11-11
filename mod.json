@@ -1,0 +1,6 @@
+{
+  "name": "ctrip-icon-menu",
+  "version": "0.0.1",
+  "apiDependencies": ["address","icon-menu"]
+}
+
