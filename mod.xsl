@@ -3,13 +3,8 @@
         <!-- className 'J_OXMod' required  -->
         <xsl:param name="spot_link"></xsl:param>
         <div class="J_OXMod oxmod-ctrip-icon-menu" ox-mod="ctrip-icon-menu">
-            <h3>
-            	<a href="{$spot_link}" class="spot">
-            		<xsl:value-of select="data/address/city"/>
-            	</a>
-                玩转当地
-            </h3>
-            <xsl:for-each select="data/icon-menu/i">
+            
+            <xsl:for-each select="data/ui-entry/i">
             <div class="icons">
             	<xsl:for-each select="i">
             		<a href="{href}" class="icon">
