@@ -4,9 +4,9 @@
         
         <div class="J_OXMod oxmod-ctrip-icon-menu" ox-mod="ctrip-icon-menu">
             
-            <xsl:for-each select="data/ui-entry/i">
+            
             <div class="icons">
-            	<xsl:for-each select="i">
+            	<xsl:for-each select="data/ui-entry/i">
             		<a href="{href}" class="icon">
             			<img src="https://a.oxm1.cc/img/blank.png"
             				style="background-image:url({icon})"
@@ -18,7 +18,7 @@
             		</a>
             	</xsl:for-each>
             </div>
-            </xsl:for-each>
+            
         </div>
     </xsl:template>
 </xsl:stylesheet>
